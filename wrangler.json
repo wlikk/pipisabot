@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "pipisabot",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "f752ded2-5e46-4cab-a97d-fe9b3dd87f15",
+			"database_name": "pipisa_bot"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
